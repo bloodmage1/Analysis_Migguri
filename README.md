@@ -2,22 +2,24 @@
 
 ## 1. Demonstration
 
-![image.jpg1](https://github.com/bloodmage1/Analysis_Migguri/tree/main/img/before_login.png) |![image.jpg2](https://github.com/bloodmage1/Analysis_Migguri/tree/main/img/after_login.png) |
+![before_login.png](https://github.com/bloodmage1/Analysis_Migguri/tree/main/img/before_login.png) |![after_login.png](https://github.com/bloodmage1/Analysis_Migguri/tree/main/img/after_login.png) |
  --- | --- |
 | This is what the webpage looks like before you type in your email. It's printing out existing images| This is the appearance of the web page after entering email and clicking Subscribe. You can see the image that you have analyzed.|
- ## 2. RUN
+ 
+ 
+## 2. RUN
 
- '''
-git clone https://github.com/bloodmage1/Mig_analysis
- '''
+```
+git clone https://github.com/bloodmage1/Analysis_Migguri
+```
 
 
 python blog_abtest.py
-'''
 
- ## 3. Architecture
 
- '''
+## 3. Architecture
+
+```
 Mig_analysis/
 │
 ├── blog_abtest.py
@@ -34,7 +36,7 @@ Mig_analysis/
 ├── templates/
 │   ├── blog_A.html
 │   └── blog_B.html
- '''
+```
 
   ## 4. Data
 
