@@ -2,7 +2,7 @@
 
 ## 1. Demonstration
 
-![image.jpg1](https://github.com/bloodmage1/Analysis_Migguri/tree/main/img/before_login.png) |![image.jpg1](https://github.com/bloodmage1/Analysis_Migguri/tree/main/img/after_login.png) |
+![image.jpg1](https://github.com/bloodmage1/Analysis_Migguri/blob/main/img/before_login.png) |![image.jpg1](https://github.com/bloodmage1/Analysis_Migguri/blob/main/img/after_login.png) |
  --- | --- |
 | This is what the webpage looks like before you type in your email. It's printing out existing images| This is the appearance of the web page after entering email and clicking Subscribe. You can see the image that you have analyzed.|
  
